@@ -19,11 +19,6 @@
             <Font name="System Bold Italic" size="26.0" />
          </font>
       </TextField>
-      <TextField alignment="TOP_RIGHT" layoutY="56.0" prefHeight="50.0" prefWidth="600.0" style="-fx-background-color: #87CEEB;" text="User">
-         <font>
-            <Font name="System Italic" size="18.0" />
-         </font>
-      </TextField>
       <TextField layoutX="13.0" layoutY="121.0" style="-fx-background-color: #87CEEB;" text="Login (Email)">
          <font>
             <Font name="System Bold" size="12.0" />
